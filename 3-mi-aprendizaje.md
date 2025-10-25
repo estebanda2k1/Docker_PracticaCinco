@@ -1,3 +1,4 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# Mi aprendizaje
+En la industria, los proyectos no se ejecutan “en tu computadora”, sino en servidores, nubes o pipelines.Con Docker, puedes garantizar que el entorno de desarrollo, pruebas y producción sean idénticos, para evitar problemas de solo ejecución en una computadora.
+
+Configurar SonarQube con Docker Compose es una práctica que tiene gran valor profesional porque integra conocimientos de desarrollo, calidad de software y administración de entornos. Permite desplegar de forma automatizada un sistema de análisis de código que detecta errores, vulnerabilidades y malas prácticas, asegurando que el software sea más confiable y mantenible. Al utilizar Docker Compose, se adquiere experiencia en la creación de entornos reproducibles, gestión de servicios interconectados y configuración mediante variables de entorno y volúmenes, habilidades esenciales en el campo del DevOps y en proyectos empresariales modernos que aplican integración continua y control de calidad del código.
